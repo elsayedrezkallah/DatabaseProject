@@ -1,0 +1,11 @@
+:root {
+    --m3syslighton-surface: rgba(230, 224, 233, 1);
+    --single-line-body-base-font-family: "Inter", Helvetica;
+    --single-line-body-base-font-weight: 400;
+    --single-line-body-base-font-size: 16px;
+    --single-line-body-base-letter-spacing: 0px;
+    --single-line-body-base-line-height: 100%;
+    --single-line-body-base-font-style: normal;
+  }
+  
+  
